@@ -1,0 +1,15 @@
+{
+  "lesson": 24,
+  "application": "Sales Chart and Evidence Note",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "totals": {
+      "Electronics": 2000,
+      "Accessories": 200
+    },
+    "chart": "sales.svg",
+    "explanation": "Electronics contributes 2000 USD and Accessories 200 USD. This is a snapshot, not a trend."
+  },
+  "measured_cost_usd": null
+}

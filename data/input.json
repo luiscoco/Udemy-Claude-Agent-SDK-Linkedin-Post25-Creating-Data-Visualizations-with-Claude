@@ -1,0 +1,17 @@
+{
+  "currency": "USD",
+  "sales": [
+    {
+      "category": "Electronics",
+      "revenue": 1200
+    },
+    {
+      "category": "Electronics",
+      "revenue": 800
+    },
+    {
+      "category": "Accessories",
+      "revenue": 200
+    }
+  ]
+}

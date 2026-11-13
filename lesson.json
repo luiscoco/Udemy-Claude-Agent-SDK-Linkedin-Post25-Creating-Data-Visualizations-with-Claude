@@ -1,0 +1,15 @@
+{
+  "lesson": 24,
+  "title": "Creating Data Visualizations with Claude",
+  "application": "Sales Chart and Evidence Note",
+  "purpose": "Validate revenue data, aggregate categories, and generate an inspectable SVG bar chart with a grounded agent explanation.",
+  "exercise": "Add a category and inspect the SVG. Confirm bars start at zero and category totals match the input rows.",
+  "source_topics": [
+    "01-Prepare-the-Data-Behind-the-Chart.png",
+    "02-Choose-a-Chart-That-Fits-the-Question.png",
+    "03-Create-a-Chart-with-Python.png",
+    "04-Make-the-Chart-Easy-to-Read.png",
+    "05-Let-the-Agent-Generate-and-Run-Plotting-Code.png",
+    "06-Validate-the-Chart-and-the-Insight.png"
+  ]
+}
